@@ -1,4 +1,4 @@
-import "./css/index.css"
+import "../css/index.css"
 import IMask, { MaskedDynamic } from "imask"
 
 const ccBgColor01 = document.querySelector(".cc-bg svg > g g:nth-child(1) path")
